@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Const\\AndroidStudioProjects\\HanoiGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Const\\AndroidStudioProjects\\HanoiGame\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
+                    "from": {
+                        "startLines": "10,8,13,7,4,11,12,16,6,9,5,15,2,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "530,357,693,305,153,584,634,858,266,452,207,788,57,740",
+                        "endColumns": "52,93,45,50,52,48,57,70,37,76,57,68,92,46",
+                        "endOffsets": "578,446,734,351,201,628,687,924,299,524,260,852,145,782"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,202,248,299,352,401,459,530,568,645,703,772,865",
+                        "endColumns": "52,93,45,50,52,48,57,70,37,76,57,68,92,46",
+                        "endOffsets": "103,197,243,294,347,396,454,525,563,640,698,767,860,907"
+                    }
+                }
+            ]
+        }
+    ]
+}
